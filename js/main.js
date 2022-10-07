@@ -6,4 +6,4 @@ var num = 5;
 num = 8
 console.log("Переменная: " + num + ".");
 
-const number = "KLIApwnz";
+
