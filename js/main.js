@@ -10,3 +10,5 @@ console.log("Resultat: " + num_3);
 var str_1 = Number("12");
 var str_2 = Number("2");
 console.log("Результат: " + (str_1 + str_2));
+
+console.log("Math: " + Math.PI);
