@@ -14,3 +14,4 @@ console.log("Результат: " + (str_1 + str_2));
 console.log("Math: " + Math.PI);
 console.log("Math: " + Math.E);
 console.log("Math: " + Math.min(4, 12, 6, 8 , 0));
+console.log("Math: " + Math.max(4, 12, 6, 8 , 990));
