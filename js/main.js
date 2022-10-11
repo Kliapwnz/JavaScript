@@ -5,5 +5,5 @@ console.log("Результат: " + (num_1 - num_2));
 
 var num_3 = 5;
 num_3 += 7;
-consose.log("Resultat: " + num_3);
+console.log("Resultat: " + num_3);
 
