@@ -1,8 +1,4 @@
-//var num;
-//num = 8;
+var num_1 = 5;
+var num_2 = 15;
 
-var num = 5;
-num = 8;
-console.log("Переменная: " + num + ".");
-
-
+console.log("Вычитание: " + num_1 - num_2);
