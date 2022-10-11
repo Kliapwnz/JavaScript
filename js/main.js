@@ -18,6 +18,8 @@ console.log("Math: " + Math.max(4, 12, 6, 8 , 990));
 
 var number = 15;
 
-if(number != 55) {
+if(number != 15) {
     console.log("Ok");
+} else {
+    console.log("noOk");
 }
