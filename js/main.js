@@ -12,3 +12,5 @@ var str_2 = Number("2");
 console.log("Результат: " + (str_1 + str_2));
 
 console.log("Math: " + Math.PI);
+console.log("Math: " + Math.E);
+console.log("Math: " + Math.min(4, 12, 6, 8 , 0));
