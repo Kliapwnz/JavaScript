@@ -52,3 +52,10 @@ switch(stroka) {
 
 var arr = [12, true, "KLIA", 5.7, 500, 800];
 console.log(arr.length);
+
+var matrix = [
+    [4 ,6, 8], ["KLIA", 5.7], [500, 800]
+];
+
+matrix[1][0] = "KLIApwnz";
+console.log(matrix);
