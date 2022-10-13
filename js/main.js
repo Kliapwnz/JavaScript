@@ -48,6 +48,6 @@ switch(stroka) {
         break;
 }
 
-for(var i = 0; i < 10; i++) {
-
+for(var i = 100; i > 5; i /=2) {
+    console.log(i);
 }
