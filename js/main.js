@@ -46,5 +46,9 @@ switch(stroka) {
     case "word":
         console.log("Переменная со значением word");
         break;
-    default.log("Default");
 }
+
+
+
+var arr = [12, true, "KLIA", 5.7, 500, 800];
+console.log(arr);
