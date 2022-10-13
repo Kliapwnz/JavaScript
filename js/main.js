@@ -57,3 +57,9 @@ while(j > 100) {
     console.log(j);
     j -=100;
 }
+
+
+var x = 100;
+do {
+    console.log(x); 
+} while(x < 50);
