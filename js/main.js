@@ -59,7 +59,16 @@ while(j > 100) {
 }
 
 
-var x = 100;
+var x = 0;
 do {
-    console.log(x); 
-} while(x < 50);
+    console.log(x);
+    x++; 
+} while(x < 10);
+
+
+for(var klia = 10; klia <= 20; klia++) {
+    if(klia > 15)
+        break;
+
+    console.log(klia);
+}
