@@ -67,8 +67,9 @@ do {
 
 
 for(var klia = 10; klia <= 20; klia++) {
-    if(klia > 15)
-        break;
+    if(klia % 2 == 0)
+        continue;
+        
 
     console.log(klia);
 }
