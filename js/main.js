@@ -18,7 +18,11 @@ console.log("Math: " + Math.max(4, 12, 6, 8 , 990));
 
 var number = 15;
 
-if(number == 5) {
+var isHasHouse = true;
+
+
+
+if(number == 5 || isHasHouse == true) {
     console.log("Ok");
 } else if (number < 10){
     console.log("Ok!");
