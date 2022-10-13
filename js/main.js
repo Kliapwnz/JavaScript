@@ -73,3 +73,9 @@ for(var klia = 10; klia <= 20; klia++) {
 
     console.log(klia);
 }
+
+var arr = [5, 7, 3, 8, "kliapwnz"];
+
+for(var iqw = 0; iqw < arr.length; iqw++) {
+    console.log("Элемент " + (iqw +1) +":" + arr[iqw]);
+}
